@@ -1,0 +1,49 @@
+.jumbotron-web {
+  margin-top: 70px;
+  margin-bottom: 100px;
+  .kiri {
+    .btn-hire {
+      color: rgb(71, 47, 1);
+      background: #fdbd39;
+      border-radius: 9px;
+      font-size: 18px;
+    }
+    .btn-works {
+      color: #ffffff;
+      border: 1px solid #ffffff;
+      box-sizing: border-box;
+      border-radius: 9px;
+      font-size: 18px;
+    }
+    .icon {
+      margin-top: 100px;
+      margin-bottom: 30px;
+      i {
+        margin-right: 20px;
+        font-size: 40px;
+        color: white;
+      }
+    }
+  }
+  .tengah {
+    margin-bottom: 20px;
+  }
+  .kanan {
+    margin-top: 30px;
+    .konten {
+      margin-bottom: 30px;
+      color: white;
+      .angka {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 37px;
+      }
+      .desc {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+      }
+    }
+  }
+}
